@@ -19,3 +19,20 @@ SRB2 Editor is a console hack for SRB2. The first __EVER__ SRB2 Hack made with J
 
 # Socials
 - [Discord](https://discord.gg/FCdUdJnYFT)
+
+# How To Install
+- First install [Node.js](https://nodejs.org/en/download/)
+- Heres a few selections:
+   [Windows](https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi)
+   [Mac OS](https://nodejs.org/dist/v14.16.0/node-v14.16.0.pkg)
+
+# How To Install On Mac
+1. Open Bash on Mac OS
+2. Go to the current DIR, like this: cd [ENTER SRB2 EDITOR FILE LOCATION HERE]/srb2editr_data/
+3. Then type "node file.js"
+4. You're all set!
+
+# How To Install On Windows
+1. Open the SRB2 Editor folder
+2. Start "srb2_editor.exe"
+3. You're all set!
