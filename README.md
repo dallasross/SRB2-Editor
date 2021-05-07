@@ -1,3 +1,6 @@
+# WARNING
+SRB2 v.2.2.9 or above is NOT supported. Only SRB2 v2.2.8 is supported.
+
 # SRB2-Editor
 SRB2 Editor is a console hack for SRB2. The first __EVER__ SRB2 Hack made with JavaScript.
 
