@@ -28,7 +28,7 @@ SRB2 Editor is a console hack for SRB2. The first __EVER__ SRB2 Hack made with J
 - You're all set!
 
 # Socials
-- [Discord](https://discord.gg/ptPaeRK4)
+- [Discord](https://discord.gg/N6vQDFv9gg)
 
 # How To Install
 - First install [Node.js](https://nodejs.org/en/download/)
