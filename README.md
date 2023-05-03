@@ -1,7 +1,7 @@
 # Website
 [Here](https://srb2-editor.glitch.me/)
 
-**Status:** ![#c5f015](https://via.placeholder.com/12/green/000000?text=+)
+**Status:** ![#c5f015](https://via.placeholder.com/12/FF0000/000000?text=+)
 
 # Satus Help
 ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) :: `Working`
